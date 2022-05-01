@@ -1,0 +1,666 @@
+Seed: 0
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Aqua_Simulacra
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 54890
+
+Relevant stats
+ATK: 2150.74
+Elemental Mastery: 378.37
+CRIT Rate: 5.00
+CRIT DMG: 292.86
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 55.00
+"Reaction bonuses": 0.00
+
+Information for artifact #17575
+Main stat HP: 4780.0
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 7.77
+ATK_Percent: 28.57
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #519162
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_DMG: 7.77
+Energy_Recharge: 4.53
+ATK: 17.51
+Elemental_Mastery: 114.22
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #122764
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK_Percent: 5.83
+DEF: 23.15
+ATK: 17.51
+Elemental_Mastery: 116.55
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 54890
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Sharpshooters_Oath
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 47691
+
+Relevant stats
+ATK: 1826.86
+Elemental Mastery: 287.46
+CRIT Rate: 8.11
+CRIT DMG: 281.08
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 83.00
+"Reaction bonuses": 0.00
+
+Information for artifact #17575
+Main stat HP: 4780.0
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 7.77
+ATK_Percent: 28.57
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #567757
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.11
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 37.29
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #122764
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK_Percent: 5.83
+DEF: 23.15
+ATK: 17.51
+Elemental_Mastery: 116.55
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 47691
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Polar_Star
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 52757
+
+Relevant stats
+ATK: 2363.33
+Elemental Mastery: 355.08
+CRIT Rate: 38.10
+CRIT DMG: 264.48
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 47.00
+"Reaction bonuses": 0.00
+
+Information for artifact #155460
+Main stat HP: 4780.0
+
+Substats
+ATK: 15.56
+Elemental_Mastery: 23.31
+ATK_Percent: 5.83
+CRIT_DMG: 37.29
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #69157
+Main stat Elemental_Mastery: 186.5
+
+Substats
+DEF_Percent: 5.10
+ATK: 19.45
+ATK_Percent: 5.83
+CRIT_DMG: 38.07
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #197289
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 20.98
+HP: 268.88
+ATK_Percent: 28.57
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 52757
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Skyward_Harp
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 47165
+
+Relevant stats
+ATK: 2457.71
+Elemental Mastery: 287.46
+CRIT Rate: 30.21
+CRIT DMG: 254.18
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 35.00
+"Reaction bonuses": 0.00
+
+Information for artifact #17575
+Main stat HP: 4780.0
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 7.77
+ATK_Percent: 28.57
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #567757
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.11
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 37.29
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #122764
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK_Percent: 5.83
+DEF: 23.15
+ATK: 17.51
+Elemental_Mastery: 116.55
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 47165
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Thundering_Pulse
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 53549
+
+Relevant stats
+ATK: 2323.51
+Elemental Mastery: 355.08
+CRIT Rate: 5.00
+CRIT DMG: 301.16
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 35.00
+"Reaction bonuses": 0.00
+
+Information for artifact #17575
+Main stat HP: 4780.0
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 7.77
+ATK_Percent: 28.57
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #69157
+Main stat Elemental_Mastery: 186.5
+
+Substats
+DEF_Percent: 5.10
+ATK: 19.45
+ATK_Percent: 5.83
+CRIT_DMG: 38.07
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #197289
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 20.98
+HP: 268.88
+ATK_Percent: 28.57
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 53549
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Prototype_Crescent
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 54833
+
+Relevant stats
+ATK: 2439.81
+Elemental Mastery: 450.65
+CRIT Rate: 5.00
+CRIT DMG: 264.48
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 35.00
+"Reaction bonuses": 0.00
+
+Information for artifact #155460
+Main stat HP: 4780.0
+
+Substats
+ATK: 15.56
+Elemental_Mastery: 23.31
+ATK_Percent: 5.83
+CRIT_DMG: 37.29
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #69157
+Main stat Elemental_Mastery: 186.5
+
+Substats
+DEF_Percent: 5.10
+ATK: 19.45
+ATK_Percent: 5.83
+CRIT_DMG: 38.07
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #122764
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK_Percent: 5.83
+DEF: 23.15
+ATK: 17.51
+Elemental_Mastery: 116.55
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 54833
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Amos_Bow
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 55246
+
+Relevant stats
+ATK: 2376.62
+Elemental Mastery: 355.08
+CRIT Rate: 5.00
+CRIT DMG: 264.48
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 55.00
+"Reaction bonuses": 0.00
+
+Information for artifact #155460
+Main stat HP: 4780.0
+
+Substats
+ATK: 15.56
+Elemental_Mastery: 23.31
+ATK_Percent: 5.83
+CRIT_DMG: 37.29
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #69157
+Main stat Elemental_Mastery: 186.5
+
+Substats
+DEF_Percent: 5.10
+ATK: 19.45
+ATK_Percent: 5.83
+CRIT_DMG: 38.07
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #197289
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 20.98
+HP: 268.88
+ATK_Percent: 28.57
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 55246
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for The_Stringless_R5
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 54944
+
+Relevant stats
+ATK: 2076.79
+Elemental Mastery: 356.89
+CRIT Rate: 8.11
+CRIT DMG: 263.70
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 83.00
+"Reaction bonuses": 0.00
+
+Information for artifact #155460
+Main stat HP: 4780.0
+
+Substats
+ATK: 15.56
+Elemental_Mastery: 23.31
+ATK_Percent: 5.83
+CRIT_DMG: 37.29
+
+
+Information for artifact #113861
+Main stat ATK: 311.0
+
+Substats
+HP: 268.88
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 38.85
+
+
+Information for artifact #567757
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.11
+ATK: 19.45
+Elemental_Mastery: 23.31
+CRIT_DMG: 37.29
+
+
+Information for artifact #454788
+Main stat Elemental_DMG: 46.6
+
+Substats
+ATK_Percent: 5.25
+ATK: 17.51
+Elemental_Mastery: 23.31
+CRIT_DMG: 38.07
+
+
+Information for artifact #197289
+Main stat CRIT_DMG: 62.2
+
+Substats
+ATK: 19.45
+Elemental_Mastery: 20.98
+HP: 268.88
+ATK_Percent: 28.57
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Wanderer's Troupe damage: 54944
+
+
+
+
+

@@ -1,0 +1,902 @@
+Seed: 9
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Polar_Star
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 59653
+
+Relevant stats
+ATK: 2833.25
+Elemental Mastery: 251.76
+CRIT Rate: 79.31
+CRIT DMG: 124.60
+Pyro (Elemental) DMG Bonus: 22.50
+"Damage bonuses": 212.00
+"Reaction bonuses": 15.00
+
+Information for artifact #5
+Main stat HP: 4780.0
+
+Substats
+CRIT_DMG: 7.77
+CRIT_Rate: 2.72
+DEF_Percent: 5.83
+Elemental_Mastery: 107.23
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+4-piece Fleeting Promise
+================================================================================
+Information about Amber
+Damage output for the build below: 62953
+
+Relevant stats
+ATK: 2916.35
+Elemental Mastery: 315.51
+CRIT Rate: 92.53
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 0.00
+"Damage bonuses": 232.00
+"Reaction bonuses": 0.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Fleeting Promise damage: 62953
+Best 4-piece Crimson Witch of Flames damage: 59653
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Skyward_Harp
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 52828
+
+Relevant stats
+ATK: 2603.01
+Elemental Mastery: 251.76
+CRIT Rate: 68.31
+CRIT DMG: 144.60
+Pyro (Elemental) DMG Bonus: 22.50
+"Damage bonuses": 200.00
+"Reaction bonuses": 15.00
+
+Information for artifact #5
+Main stat HP: 4780.0
+
+Substats
+CRIT_DMG: 7.77
+CRIT_Rate: 2.72
+DEF_Percent: 5.83
+Elemental_Mastery: 107.23
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+4-piece Fleeting Promise
+================================================================================
+Information about Amber
+Damage output for the build below: 56750
+
+Relevant stats
+ATK: 2692.71
+Elemental Mastery: 315.51
+CRIT Rate: 81.53
+CRIT DMG: 143.05
+Pyro (Elemental) DMG Bonus: 0.00
+"Damage bonuses": 220.00
+"Reaction bonuses": 0.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Fleeting Promise damage: 56750
+Best 4-piece Crimson Witch of Flames damage: 52828
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Thundering_Pulse
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 51956
+
+Relevant stats
+ATK: 2440.69
+Elemental Mastery: 221.46
+CRIT Rate: 74.21
+CRIT DMG: 154.29
+Pyro (Elemental) DMG Bonus: 22.50
+"Damage bonuses": 200.00
+"Reaction bonuses": 15.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #21
+Main stat ATK: 311.0
+
+Substats
+ATK_Percent: 4.08
+Energy_Recharge: 4.53
+HP_Percent: 5.83
+CRIT_Rate: 18.28
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #19
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 5.83
+DEF_Percent: 5.83
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+
+================================================================================
+4-piece Fleeting Promise
+================================================================================
+Information about Amber
+Damage output for the build below: 55657
+
+Relevant stats
+ATK: 2717.58
+Elemental Mastery: 294.53
+CRIT Rate: 74.21
+CRIT DMG: 154.29
+Pyro (Elemental) DMG Bonus: 0.00
+"Damage bonuses": 220.00
+"Reaction bonuses": 0.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #21
+Main stat ATK: 311.0
+
+Substats
+ATK_Percent: 4.08
+Energy_Recharge: 4.53
+HP_Percent: 5.83
+CRIT_Rate: 18.28
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Fleeting Promise damage: 55657
+Best 4-piece Crimson Witch of Flames damage: 51956
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Prototype_Crescent
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 49836
+
+Relevant stats
+ATK: 2843.52
+Elemental Mastery: 242.44
+CRIT Rate: 59.43
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 22.50
+"Damage bonuses": 200.00
+"Reaction bonuses": 15.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #19
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 5.83
+DEF_Percent: 5.83
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+
+================================================================================
+4-piece Fleeting Promise
+================================================================================
+Information about Amber
+Damage output for the build below: 52294
+
+Relevant stats
+ATK: 2916.82
+Elemental Mastery: 392.44
+CRIT Rate: 59.43
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 0.00
+"Damage bonuses": 220.00
+"Reaction bonuses": 0.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #19
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 5.83
+DEF_Percent: 5.83
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Fleeting Promise damage: 52294
+Best 4-piece Crimson Witch of Flames damage: 49836
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Amos_Bow
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 46492
+
+Relevant stats
+ATK: 2652.76
+Elemental Mastery: 242.44
+CRIT Rate: 59.43
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 22.50
+"Damage bonuses": 200.00
+"Reaction bonuses": 15.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #19
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 5.83
+DEF_Percent: 5.83
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+
+================================================================================
+4-piece Fleeting Promise
+================================================================================
+Information about Amber
+Damage output for the build below: 49345
+
+Relevant stats
+ATK: 2929.65
+Elemental Mastery: 315.51
+CRIT Rate: 59.43
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 0.00
+"Damage bonuses": 220.00
+"Reaction bonuses": 0.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Fleeting Promise damage: 49345
+Best 4-piece Crimson Witch of Flames damage: 46492
+
+
+
+
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for The_Stringless_R5
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 47372
+
+Relevant stats
+ATK: 2183.96
+Elemental Mastery: 330.51
+CRIT Rate: 59.43
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 22.50
+"Damage bonuses": 248.00
+"Reaction bonuses": 15.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+4-piece Fleeting Promise
+================================================================================
+Information about Amber
+Damage output for the build below: 49482
+
+Relevant stats
+ATK: 2257.26
+Elemental Mastery: 480.51
+CRIT Rate: 59.43
+CRIT DMG: 123.05
+Pyro (Elemental) DMG Bonus: 0.00
+"Damage bonuses": 268.00
+"Reaction bonuses": 0.00
+
+Information for artifact #10
+Main stat HP: 4780.0
+
+Substats
+DEF: 18.52
+CRIT_DMG: 6.22
+Elemental_Mastery: 20.98
+CRIT_Rate: 15.94
+
+
+Information for artifact #1
+Main stat ATK: 311.0
+
+Substats
+HP_Percent: 4.66
+Elemental_Mastery: 20.98
+CRIT_Rate: 3.50
+CRIT_DMG: 34.96
+
+
+Information for artifact #17
+Main stat ATK_Percent: 46.6
+
+Substats
+CRIT_Rate: 3.89
+HP_Percent: 4.66
+HP: 268.88
+Elemental_Mastery: 100.24
+
+
+Information for artifact #8
+Main stat ATK_Percent: 46.6
+
+Substats
+DEF: 23.15
+DEF_Percent: 7.29
+HP: 239.00
+CRIT_DMG: 31.87
+
+
+Information for artifact #14
+Main stat CRIT_Rate: 31.1
+
+Substats
+HP_Percent: 4.08
+Elemental_Mastery: 23.31
+DEF: 16.20
+ATK_Percent: 23.32
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Fleeting Promise damage: 49482
+Best 4-piece Crimson Witch of Flames damage: 47372
+
+
+
+
+
