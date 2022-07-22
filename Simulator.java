@@ -32,7 +32,7 @@ public class Simulator {
         for(int fileNumber = 0; fileNumber < NUM_EXPERIMENTS; fileNumber ++) {
             // Create the file we want to write to
             // out = new PrintWriter(new BufferedWriter(new FileWriter("Test outputs\\50,000 iterations\\Yelan Bow\\Teammate buffs\\Bennett and Sucrose\\output" + fileNumber + ".txt")));
-            out = new PrintWriter(new BufferedWriter(new FileWriter("Test outputs\\150,000 iterations\\Full rotation\\" + fileNumber + ".txt")));
+            out = new PrintWriter(new BufferedWriter(new FileWriter("Test outputs\\150,000 iterations\\Full rotation\\Diona and Sucrose (TToDS)\\output " + fileNumber + ".txt")));
 
             // Print out the seed
             // SEED = fileNumber + (int) (Math.random() * 10000);
@@ -96,7 +96,7 @@ public class Simulator {
 
         // Create new artifact storages and test them
         // 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence
-        ArtifactStorage storageTwoGFTwoSR = new ArtifactStorage(ArtifactSetEffect.TwoCWoFTwoGF);
+        ArtifactStorage storageTwoGFTwoSR = new ArtifactStorage(ArtifactSetEffect.TwoGFTwoSR);
         Artifact.rng = new Random(SEED);
         printHeader("2-piece 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence");
         optimizeStorage(amber, storageTwoGFTwoSR);
