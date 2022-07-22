@@ -10,28 +10,29 @@ import java.util.Random;
 // the best-in-slot artifact set and weapon.
 public class Simulator {
     // Number of iterations that we want to run for this simulator
-    public static final int NUM_ITERATIONS = 100000;   
+    public static final int NUM_ITERATIONS = 150000;   
             
     // Seed for all the artifact storages
     public static int SEED = 1;
 
     // Stores all the weapons
-    public static final Weapon [] weapons = { Weapon.Aqua_Simulacra,
-                                              Weapon.Polar_Star, Weapon.Skyward_Harp,
-                                              Weapon.Thundering_Pulse, Weapon.Prototype_Crescent,
-                                              Weapon.Amos_Bow, Weapon.The_Stringless_R5 };
+    // public static final Weapon [] weapons = { Weapon.Aqua_Simulacra,
+    //                                           Weapon.Polar_Star, Weapon.Skyward_Harp,
+    //                                           Weapon.Thundering_Pulse, Weapon.Prototype_Crescent,
+    //                                           Weapon.Amos_Bow, Weapon.The_Stringless_R5 };
+    public static final Weapon [] weapons = { Weapon.Thundering_Pulse };
     
     // The file we write to
     public static PrintWriter out;
 
     // The number of experiments
-    public static int NUM_EXPERIMENTS = 2;
+    public static int NUM_EXPERIMENTS = 20;
 
     public static void main(String [] args) throws IOException {
         for(int fileNumber = 0; fileNumber < NUM_EXPERIMENTS; fileNumber ++) {
             // Create the file we want to write to
             // out = new PrintWriter(new BufferedWriter(new FileWriter("Test outputs\\50,000 iterations\\Yelan Bow\\Teammate buffs\\Bennett and Sucrose\\output" + fileNumber + ".txt")));
-            out = new PrintWriter(new BufferedWriter(new FileWriter("Test outputs\\100,000 iterations\\Compare Blizzard Strayer\\output" + fileNumber + ".txt")));
+            out = new PrintWriter(new BufferedWriter(new FileWriter("Test outputs\\150,000 iterations\\Full rotation\\" + fileNumber + ".txt")));
 
             // Print out the seed
             // SEED = fileNumber + (int) (Math.random() * 10000);
@@ -77,14 +78,6 @@ public class Simulator {
         // New Amber object
         Amber amber = new Amber(weaponType);
 
-        // // Create new artifact storages and test them
-        // // 2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale
-        // ArtifactStorage storageTwoCWoFTwoGF = new ArtifactStorage(ArtifactSetEffect.TwoCWoFTwoGF);
-        // Artifact.rng = new Random(SEED);
-        // printHeader("2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale");
-        // optimizeStorage(amber, storageTwoCWoFTwoGF);
-        // int bestTwoCWoFTwoGF = amber.damageOutput;
-
         // Create new artifact storages and test them
         // 4-piece Crimson Witch of Flames
         ArtifactStorage storageFourCWoF = new ArtifactStorage(ArtifactSetEffect.FourCWoF);
@@ -93,19 +86,43 @@ public class Simulator {
         optimizeStorage(amber, storageFourCWoF);
         int bestFourCWoF = amber.damageOutput;
 
-        // 4-piece Fleeting Promise
-        ArtifactStorage storageFourFP = new ArtifactStorage(ArtifactSetEffect.FourFP);
+        // Create new artifact storages and test them
+        // 2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale
+        ArtifactStorage storageTwoCWoFTwoGF = new ArtifactStorage(ArtifactSetEffect.TwoCWoFTwoGF);
         Artifact.rng = new Random(SEED);
-        printHeader("4-piece Fleeting Promise");
-        optimizeStorage(amber, storageFourFP);
-        int bestFourFP = amber.damageOutput;
+        printHeader("2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale");
+        optimizeStorage(amber, storageTwoCWoFTwoGF);
+        int bestTwoCWoFTwoGF = amber.damageOutput;
 
-        // 4-piece Blizzard Strayer
-        ArtifactStorage storageFourBS = new ArtifactStorage(ArtifactSetEffect.FourBS);
+        // Create new artifact storages and test them
+        // 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence
+        ArtifactStorage storageTwoGFTwoSR = new ArtifactStorage(ArtifactSetEffect.TwoCWoFTwoGF);
         Artifact.rng = new Random(SEED);
-        printHeader("4-piece Blizzard Strayer");
-        optimizeStorage(amber, storageFourBS);
-        int bestFourBS = amber.damageOutput;
+        printHeader("2-piece 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence");
+        optimizeStorage(amber, storageTwoGFTwoSR);
+        int bestTwoGFTwoSR = amber.damageOutput;
+
+        // Create new artifact storages and test them
+        // 2-piece Gladiator's Finale and 2-piece Wanderer's Troupe
+        ArtifactStorage storageTwoGFTwoWT = new ArtifactStorage(ArtifactSetEffect.TwoGFTwoWT);
+        Artifact.rng = new Random(SEED);
+        printHeader("2-piece Gladiator's Finale and 2-piece Wanderer's Troupe");
+        optimizeStorage(amber, storageTwoGFTwoWT);
+        int bestTwoGFTwoWT = amber.damageOutput;
+
+        // // 4-piece Fleeting Promise
+        // ArtifactStorage storageFourFP = new ArtifactStorage(ArtifactSetEffect.FourFP);
+        // Artifact.rng = new Random(SEED);
+        // printHeader("4-piece Fleeting Promise");
+        // optimizeStorage(amber, storageFourFP);
+        // int bestFourFP = amber.damageOutput;
+
+        // // 4-piece Blizzard Strayer
+        // ArtifactStorage storageFourBS = new ArtifactStorage(ArtifactSetEffect.FourBS);
+        // Artifact.rng = new Random(SEED);
+        // printHeader("4-piece Blizzard Strayer");
+        // optimizeStorage(amber, storageFourBS);
+        // int bestFourBS = amber.damageOutput;
 
         // // 4-piece Wanderer's Troupe
         // ArtifactStorage storageFourWT = new ArtifactStorage(ArtifactSetEffect.FourWT);
@@ -118,10 +135,12 @@ public class Simulator {
         out.println("================================================================================");
         out.println("Best damage values for each artifact set:");
         out.println("================================================================================");
-        out.println("Best 4-piece Fleeting Promise damage: " + bestFourFP);
         out.println("Best 4-piece Crimson Witch of Flames damage: " + bestFourCWoF);
-        out.println("Best 4-piece Blizzard Strayer: " + bestFourBS);
-        // out.println("Best 2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale damage: " + bestTwoCWoFTwoGF);
+        out.println("Best 2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale damage: " + bestTwoCWoFTwoGF);
+        out.println("Best 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence: " + bestTwoGFTwoSR);
+        out.println("Best 2-piece Gladiator's Finale and 2-piece Wanderer's Troupe: " + bestTwoGFTwoWT);
+        // out.println("Best 4-piece Fleeting Promise damage: " + bestFourFP);
+        // out.println("Best 4-piece Blizzard Strayer: " + bestFourBS);
         // out.println("Best 4-piece Wanderer's Troupe damage: " + bestFourWT);
         out.println("\n\n\n\n");
     }
@@ -153,7 +172,8 @@ public class Simulator {
         // Calculate the final damage and store it in Amber's stats
         // amber.computeChargedShot();
         amber.computeManualBunny();
-        // amber.computeUlt();
+        amber.damageOutput *= 2;
+        amber.computeUlt();
 
         // Print out the stuff
         amber.printInfo(out);

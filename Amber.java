@@ -327,6 +327,7 @@ class Amber {
         // Factor in critical hits
         double critDmgMultiplier = critDmg / 100;
         double critRateMultiplier = critRate / 100;
+        critRateMultiplier +=  + 0.1;   // Amber's passive
         // Don't let effective crit rate go over 100%
         if(critRateMultiplier > 1) {
             critRateMultiplier = 1;

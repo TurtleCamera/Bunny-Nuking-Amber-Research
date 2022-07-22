@@ -3,8 +3,8 @@ public enum ArtifactSetEffect {
     FourCWoF,       // 4-piece Crimson Witch of Flames
     FourBS,         // 4-piece Blizzard Strayer
     FourFP,         // 4-piece Fleeting Promise
-    // TwoGFTwoSR,     // 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence
+    TwoGFTwoSR,     // 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence
     // TwoGFTwoFP,     // 2-piece Gladiator's Finale and 2-piece Fleeting Promise
-    // TwoGFTwoWT,     // 2-piece Gladiator's Finale and 2-piece Wanderer's Troupe
+    TwoGFTwoWT,     // 2-piece Gladiator's Finale and 2-piece Wanderer's Troupe
     FourWT
 }

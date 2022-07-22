@@ -106,6 +106,17 @@ public class ArtifactStorage {
             // 4-piece effect
             amber.critRate += 40;
         }
+        else if(setEffect == ArtifactSetEffect.TwoGFTwoSR) {
+            // Two 2-piece effects
+            amber.atkPercent += 18;
+            amber.atkPercent += 18;
+        }
+        else if(setEffect == ArtifactSetEffect.TwoGFTwoWT) {
+            // Assuming one stack for now
+            // 2-piece effects
+            amber.atkPercent += 18;
+            amber.em += 80;
+        }
         else {
             // This set effect doesn't exist
             System.out.println("Set effect " + setEffect + " does not exist.");
