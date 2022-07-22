@@ -1,0 +1,286 @@
+Seed: 4
+
+================================================================================
+================================================================================
+================================================================================
+Running tests for Thundering_Pulse
+================================================================================
+================================================================================
+================================================================================
+
+================================================================================
+4-piece Crimson Witch of Flames
+================================================================================
+Information about Amber
+Damage output for the build below: 186055
+
+Relevant stats
+ATK: 2239.64
+Elemental Mastery: 109.56
+CRIT Rate: 84.35
+CRIT DMG: 238.22
+Pyro (Elemental) DMG Bonus: 69.10
+"Damage bonuses": 200.00
+"Reaction bonuses": 15.00
+
+Information for artifact #359805
+Main stat HP: 4780.0
+
+Substats
+ATK_Percent: 5.83
+Elemental_Mastery: 23.31
+CRIT_Rate: 3.89
+CRIT_DMG: 37.29
+
+
+Information for artifact #606961
+Main stat ATK: 311.0
+
+Substats
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 7.77
+CRIT_Rate: 19.06
+
+
+Information for artifact #397297
+Main stat ATK_Percent: 46.6
+
+Substats
+Elemental_Mastery: 23.31
+CRIT_DMG: 6.99
+ATK: 13.62
+CRIT_Rate: 19.06
+
+
+Information for artifact #710173
+Main stat Elemental_DMG: 46.6
+
+Substats
+CRIT_DMG: 7.77
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_Rate: 17.89
+
+
+Information for artifact #312539
+Main stat CRIT_DMG: 62.2
+
+Substats
+Elemental_Mastery: 20.98
+ATK_Percent: 5.25
+ATK: 17.51
+CRIT_Rate: 19.45
+
+
+
+================================================================================
+2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale
+================================================================================
+Information about Amber
+Damage output for the build below: 177455
+
+Relevant stats
+ATK: 2389.22
+Elemental Mastery: 109.56
+CRIT Rate: 84.35
+CRIT DMG: 238.22
+Pyro (Elemental) DMG Bonus: 61.60
+"Damage bonuses": 200.00
+"Reaction bonuses": 0.00
+
+Information for artifact #359805
+Main stat HP: 4780.0
+
+Substats
+ATK_Percent: 5.83
+Elemental_Mastery: 23.31
+CRIT_Rate: 3.89
+CRIT_DMG: 37.29
+
+
+Information for artifact #606961
+Main stat ATK: 311.0
+
+Substats
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 7.77
+CRIT_Rate: 19.06
+
+
+Information for artifact #397297
+Main stat ATK_Percent: 46.6
+
+Substats
+Elemental_Mastery: 23.31
+CRIT_DMG: 6.99
+ATK: 13.62
+CRIT_Rate: 19.06
+
+
+Information for artifact #710173
+Main stat Elemental_DMG: 46.6
+
+Substats
+CRIT_DMG: 7.77
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_Rate: 17.89
+
+
+Information for artifact #312539
+Main stat CRIT_DMG: 62.2
+
+Substats
+Elemental_Mastery: 20.98
+ATK_Percent: 5.25
+ATK: 17.51
+CRIT_Rate: 19.45
+
+
+
+================================================================================
+2-piece 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence
+================================================================================
+Information about Amber
+Damage output for the build below: 177290
+
+Relevant stats
+ATK: 2538.80
+Elemental Mastery: 109.56
+CRIT Rate: 98.35
+CRIT DMG: 208.70
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 200.00
+"Reaction bonuses": 0.00
+
+Information for artifact #744045
+Main stat HP: 4780.0
+
+Substats
+CRIT_DMG: 7.77
+Elemental_Mastery: 23.31
+ATK_Percent: 5.83
+CRIT_Rate: 17.89
+
+
+Information for artifact #606961
+Main stat ATK: 311.0
+
+Substats
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 7.77
+CRIT_Rate: 19.06
+
+
+Information for artifact #397297
+Main stat ATK_Percent: 46.6
+
+Substats
+Elemental_Mastery: 23.31
+CRIT_DMG: 6.99
+ATK: 13.62
+CRIT_Rate: 19.06
+
+
+Information for artifact #710173
+Main stat Elemental_DMG: 46.6
+
+Substats
+CRIT_DMG: 7.77
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_Rate: 17.89
+
+
+Information for artifact #312539
+Main stat CRIT_DMG: 62.2
+
+Substats
+Elemental_Mastery: 20.98
+ATK_Percent: 5.25
+ATK: 17.51
+CRIT_Rate: 19.45
+
+
+
+================================================================================
+2-piece Gladiator's Finale and 2-piece Wanderer's Troupe
+================================================================================
+Information about Amber
+Damage output for the build below: 180041
+
+Relevant stats
+ATK: 2389.22
+Elemental Mastery: 189.56
+CRIT Rate: 98.35
+CRIT DMG: 208.70
+Pyro (Elemental) DMG Bonus: 46.60
+"Damage bonuses": 200.00
+"Reaction bonuses": 0.00
+
+Information for artifact #744045
+Main stat HP: 4780.0
+
+Substats
+CRIT_DMG: 7.77
+Elemental_Mastery: 23.31
+ATK_Percent: 5.83
+CRIT_Rate: 17.89
+
+
+Information for artifact #606961
+Main stat ATK: 311.0
+
+Substats
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_DMG: 7.77
+CRIT_Rate: 19.06
+
+
+Information for artifact #397297
+Main stat ATK_Percent: 46.6
+
+Substats
+Elemental_Mastery: 23.31
+CRIT_DMG: 6.99
+ATK: 13.62
+CRIT_Rate: 19.06
+
+
+Information for artifact #710173
+Main stat Elemental_DMG: 46.6
+
+Substats
+CRIT_DMG: 7.77
+ATK_Percent: 5.83
+Elemental_Mastery: 20.98
+CRIT_Rate: 17.89
+
+
+Information for artifact #312539
+Main stat CRIT_DMG: 62.2
+
+Substats
+Elemental_Mastery: 20.98
+ATK_Percent: 5.25
+ATK: 17.51
+CRIT_Rate: 19.45
+
+
+
+================================================================================
+Best damage values for each artifact set:
+================================================================================
+Best 4-piece Crimson Witch of Flames damage: 186055
+Best 2-piece Crimson Witch of Flames and 2-piece Gladiator's Finale damage: 177455
+Best 2-piece Gladiator's Finale and 2-piece Shimenawa's Reminiscence: 177290
+Best 2-piece Gladiator's Finale and 2-piece Wanderer's Troupe: 180041
+
+
+
+
+

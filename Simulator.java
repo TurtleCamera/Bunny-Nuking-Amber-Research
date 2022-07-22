@@ -26,7 +26,7 @@ public class Simulator {
     public static PrintWriter out;
 
     // The number of experiments
-    public static int NUM_EXPERIMENTS = 20;
+    public static int NUM_EXPERIMENTS = 10;
 
     public static void main(String [] args) throws IOException {
         for(int fileNumber = 0; fileNumber < NUM_EXPERIMENTS; fileNumber ++) {
@@ -236,7 +236,8 @@ public class Simulator {
                                 // Compute barron bunny damage
                                 // int damageOutput = amber.computeChargedShot();
                                 int damageOutput = amber.computeManualBunny();
-                                // int damageOutput = amber.computeUlt();
+                                damageOutput *= 2;
+                                damageOutput += amber.computeUlt();
 
                                 // Replace old damage values in these 5 artifacts if this new
                                 // damage output is better than what they currently have
