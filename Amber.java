@@ -266,7 +266,7 @@ class Amber {
 
         // This is the calculator for computing charged shot damage (only for weakspots,
         // so crit rate is ignored). Assumes we melt.
-        double totalATK = flatATK + baseATK * (1 + (atkPercent / 100)); // Total ATK
+        double totalATK = flatATK + baseATK * (1 + (atkPercent / 100) + 0.2 + 0.48); // Total ATK
 
         // Damage bonuses with the word "DMG"
         double totalDmgBonus = 1;
@@ -281,6 +281,7 @@ class Amber {
         // Factor in critical hits
         double critDmgMultiplier = critDmg / 100;
         double critRateMultiplier = critRate / 100;
+        critRateMultiplier += 0.15;
         // Don't let effective crit rate go over 100%
         if(critRateMultiplier > 1) {
             critRateMultiplier = 1;
@@ -292,7 +293,7 @@ class Amber {
         double incomingDmg = avgOutgoingDmg * defAndResMultiplier;
 
         // Amplifier from melt
-        double totalEm = em;
+        double totalEm = em + applySucroseBuffs() + applyDionaUlt();
         double emBonus = 2.78 * (totalEm / (totalEm + 1400));
         double reactionMultiplier = 2;
         double reactionBonus = 0;
@@ -310,7 +311,7 @@ class Amber {
     public int computeUlt() {
         // This is the calculator for computing charged shot damage (only for weakspots,
         // so crit rate is ignored). Assumes we melt.
-        double totalATK = flatATK + baseATK * (1 + (atkPercent / 100)); // Total ATK
+        double totalATK = flatATK + baseATK * (1 + (atkPercent / 100) + 0.48); // Total ATK
 
         // Damage bonuses with the word "DMG"
         double totalDmgBonus = 1;
